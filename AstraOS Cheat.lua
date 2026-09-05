@@ -1,5 +1,5 @@
 --[================================================================]--
---  AstraOS FPS Game Cheat (Ultimate Modern UI + Preset Button)
+--  AstraOS Rivals Script By AstraBey
 --[================================================================]--
 
 local Players = game:GetService("Players")
@@ -40,7 +40,7 @@ if not savedSettings then
 end
 
 --------------------------------------------------------------------------------
--- WHITELIST & TAKIM SİSTEMİ (GELİŞTİRİLMİŞ)
+-- WHITELIST & TAKIM SİSTEMİ
 --------------------------------------------------------------------------------
 local WhitelistPlayers = {
     "ArkadasininAdi1",
@@ -364,7 +364,7 @@ local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, -20, 1, 0)
 Title.Position = UDim2.new(0, 18, 0, 0)
 Title.BackgroundTransparency = 1
-Title.Text = "⚡ ASTRA OS <font color='#5090FF'>// ELITE SUITE</font>"
+Title.Text = "⚡ ASTRA OS <font color='#5090FF'>// Rivals </font>"
 Title.RichText = true
 Title.TextColor3 = Color3.fromRGB(245, 245, 255)
 Title.TextSize = 14
